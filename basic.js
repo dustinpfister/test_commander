@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let prog = require('commander'),
 path = require('path'),
 pkg = require(path.join(__dirname, 'package.json'));
