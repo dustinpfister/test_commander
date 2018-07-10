@@ -1,0 +1,14 @@
+{
+  "name": "test_commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Pfister",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
